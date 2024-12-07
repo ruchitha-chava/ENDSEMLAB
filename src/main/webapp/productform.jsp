@@ -1,13 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8" isELIgnored="false"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Display</title>
+<title>Insert title here</title>
 </head>
 <body>
-I am in Display Page<br>
-Name=${name}
+<h2>Product Form</h2>
 </body>
 </html>

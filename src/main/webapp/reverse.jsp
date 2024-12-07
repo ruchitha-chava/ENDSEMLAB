@@ -4,13 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title></title>
+<title>Demo2</title>
 </head>
 <body>
 
-
-${a}<br><br>
-${c}
+x = ${a}&nbsp;&nbsp;
+y = ${b}&nbsp;&nbsp;
 
 </body>
 </html>
